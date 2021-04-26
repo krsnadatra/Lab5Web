@@ -1,6 +1,6 @@
 # Praktikum 5 - Pemrograman Web (Javascript)
 
-### Rofi Ismail - 311910657
+### Gede Krishna ( 311910429 )
 
 ### TI.19.A.2
 
