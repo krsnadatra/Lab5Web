@@ -97,8 +97,5 @@ Hasilnya:
 ### HTML home 
 ![SS3-2](https://user-images.githubusercontent.com/56240078/115996334-0e506b80-a609-11eb-802b-70af609c9ace.jpg)
 
-### Hasil jika inputan tidak lengkap:
-![SS3-3](https://user-images.githubusercontent.com/56240078/115996336-0f819880-a609-11eb-9c7c-826ca7153211.jpg)
-
 ### Hasil jika semua data telah diisi dan menekan tombol daftar:
 ![SS3-4](https://user-images.githubusercontent.com/56240078/115996338-101a2f00-a609-11eb-80e9-de49baad68be.jpg)
